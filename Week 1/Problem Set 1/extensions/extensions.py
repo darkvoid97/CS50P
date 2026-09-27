@@ -1,0 +1,1 @@
+print("text/plain" if (filename := input("File name: ").strip().lower()).endswith(".txt") else ("image/" if filename.endswith((".gif",".png",".jpg",".jpeg")) else "application/") + ("jpeg" if filename.endswith(".jpg") else filename.split(".")[-1] if filename.endswith((".gif",".png",".jpeg",".pdf",".zip")) else "octet-stream"))
