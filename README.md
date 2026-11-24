@@ -14,12 +14,24 @@
 
 - The course's content is divided in 9 weeks, each composed of a Lecture and a Problem Set.
 
-- This repository contains my own solutions for the Problem Sets, organized by week. The [Final Project](https://cs50.harvard.edu/python/project/) will be in a separate repository.
+- This repository contains my own solutions for the Problem Sets, organized by week. The [Final Project](https://cs50.harvard.edu/python/project/) is in a [separate repository](https://github.com/darkvoid97/SugarBOT).
+
+<br><hr>
+
+## Certificate
+
+<div align="center">
+
+  <a href="https://cs50.harvard.edu/certificates/8bbcace2-c799-4871-b531-1e880e40209d.pdf?size=letter">
+    <img src="https://certificates.cs50.io/8bbcace2-c799-4871-b531-1e880e40209d.png?size=A4" alt="CS50P Certificate" />
+  </a>
+
+</div>
 
 <br><hr>
 
 ### [Final Project](https://cs50.harvard.edu/python/project/)
-- *TODO*
+- [**SugarBOT**](https://github.com/darkvoid97/SugarBOT): A general multi-purpose Discord bot, built using the `discord.py` API wrapper framework, organized with a modular cogs layout, it brings together AI features, server announcements, voice channel functionality, and general utility commands.
 
 <br><hr>
 
